@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Кортеж SQRT\bin\Debug\Кортеж SQRT.exe.config
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Кортеж SQRT\bin\Debug\Кортеж SQRT.exe
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Кортеж SQRT\bin\Debug\Кортеж SQRT.pdb
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Кортеж SQRT\obj\Debug\Кортеж SQRT.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Кортеж SQRT\obj\Debug\Кортеж SQRT.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Кортеж SQRT\obj\Debug\Кортеж SQRT.exe
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Кортеж SQRT\obj\Debug\Кортеж SQRT.pdb

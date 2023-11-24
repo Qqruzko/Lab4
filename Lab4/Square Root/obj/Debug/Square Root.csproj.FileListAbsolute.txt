@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Square Root\bin\Debug\Square Root.exe.config
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Square Root\bin\Debug\Square Root.exe
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Square Root\bin\Debug\Square Root.pdb
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Square Root\obj\Debug\Square Root.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Square Root\obj\Debug\Square Root.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Square Root\obj\Debug\Square Root.exe
+C:\Users\Lenovo\Desktop\Labs\Lab4\Lab4\Square Root\obj\Debug\Square Root.pdb
